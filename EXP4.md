@@ -1,5 +1,5 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
-### DATE:                                                                            
+### DATE: 27/03/2025                                                                        
 ### REGISTER NUMBER : 212222040117
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
